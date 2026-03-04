@@ -1,3 +1,4 @@
 Line 1: Stable line.
 Line 2: Conflict branch edit.
 Line 3: Another stable line.
+addedn extra lines 
