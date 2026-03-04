@@ -1,7 +1,1 @@
 Line 1: Stable line.
-<<<<<<< HEAD
-Line 2: Main branch edit.
-=======
-Line 2: Conflict branch edit.
->>>>>>> conflict-branch
-Line 3: Another stable line.
